@@ -29,7 +29,7 @@ const Portfolio = () => {
             <div className="overflow-hidden rounded-lg">
               <div className="relative h-28 w-full">
                 <Image
-                  src="/assets/images/nextjs-starter-banner.png"
+                  src="/assets/images/sanasoft.png"
                   alt="Portfolio project"
                   fill
                 />
